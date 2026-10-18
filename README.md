@@ -1,2 +1,2 @@
-# techdec-assinaturas
+# TechDEC-assinaturas
 Assinaturas corporativas TechDEC
